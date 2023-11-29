@@ -6,7 +6,7 @@ Simple CLI tool to dump raw DCT coefficients of a JPEG image.
 
 ### Pre-build
 ```sh
-curl -L https://github.com/vvh413/jpeg-dct-dump/releases/latest/download/jpeg-dct-dump --output ~/.local/bin/jpeg-dct-dump
+curl -sL https://github.com/vvh413/jpeg-dct-dump/releases/latest/download/jpeg-dct-dump --output ~/.local/bin/jpeg-dct-dump
 chmod +x ~/.local/bin/jpeg-dct-dump
 ```
 
